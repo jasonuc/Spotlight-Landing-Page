@@ -1,2 +1,2 @@
 # Spotlight-Landing-Page
-Landing page for fictional new delivery company
+Landing page for fictional news company
