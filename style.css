@@ -128,3 +128,15 @@ form #submit {
     border-radius: 10px;
     margin: 10px auto;
 }
+
+footer #info-bar {
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 100%;
+    color: white;
+    background-color: black;
+}
